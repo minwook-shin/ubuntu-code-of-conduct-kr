@@ -20,12 +20,10 @@
 우리의 작업은 다른 사람들에 의해 사용되고, 다시 다른 사람의 작업에 따라 달라집니다. 
 우리가 가지고 모든 결정은 사용자와 동료들에 영향을 미칠 것이므로, 결정을 내릴 때 우리는 그들을 고려해야합니다.
 
-
 * [Be respectful]
 Disagreement is no excuse for poor manners. 
 We work together to resolve conflict, assume good intentions and do our best to act in an empathic fashion. We don't allow frustration to turn into a personal attack. 
 A community where people feel uncomfortable or threatened is not a productive one.
-
 
 * [우리의 말과 행동에 대한 책임]
 우리는 무엇을 할때마다 실수를 할 수 있습니다. 
