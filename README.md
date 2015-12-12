@@ -4,4 +4,4 @@ Original text : ubuntu code of conduct 2.0
 The translation still being verified
 
 
-License: MIT
+License: GPL3
