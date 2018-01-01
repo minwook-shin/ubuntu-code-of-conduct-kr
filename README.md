@@ -1,10 +1,8 @@
 ﻿# 한글판 깃허브
 
-https://github.com/minwook-shin/ubuntu-code-of-conduct-kr
-
 원문 : [ubuntu code of conduct 2.0](http://www.ubuntu.com/about/about-ubuntu/conduct)
 
-~~2016년 기준, 최신 번역판입니다.~~
+번역문 : [ubuntu code of conduct 2.0 korean](https://github.com/minwook-shin/ubuntu-code-of-conduct-kr)
 
 2017년 12월의 최신 내용을 수용하고, 기존 txt를 마크다운 문서로 변경하면서 다시 작업했습니다.
 
